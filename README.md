@@ -70,7 +70,7 @@
 <h1 align="center"></h1>
 
 <p align="left">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=lorie-lorene&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=lorie-lorene&show_icons=true&include_all_commits=true&theme=chartreuse-dark&count_private=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=lorie-lorene&theme=chartreuse-dark&count_private=true"/>		  
 </p>
 <br>
