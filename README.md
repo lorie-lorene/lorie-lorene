@@ -45,8 +45,8 @@
 <p align="center">Contact me:</p>
 <p>
 <div align="center">
-	<a href="https://linkedin.com/in/brice-kouam-5113b8262" rel="nofollow">
-	 	<img alt="MODESTE LORENE NIKOUM LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" style="max-width: 100%;">
+	<a href="https://linkedin.com/in/MODESTE-LORENE-NIKOUM5113b8262" rel="nofollow">
+	 	<img alt=" LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" style="max-width: 100%;">
 	</a>
 </div>
 </p>
