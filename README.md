@@ -1,6 +1,6 @@
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Salut,+je suis+ lorie Lorene+...;une vraie +passionnee+de la programmation;je suis+specialisé dans +le+developpement+ d'application+ mobile et web.;&center=true&width=500&height=50"></a> -->
-	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Salut,+je suis+ lorie Lorene+...;une vraie +passionnee+de la programmation;je suis+specialisé dans +le+developpement+ d'application+ mobile et web;&center=true&width=500&height=50"></a>
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=salut toi,+je suis+Lorene+Modeste.;une grande+passionnee+de la+programmation.;je suis+specialisee+dans+developpement+d'application.;Web+et+ Mobile.;&center=true&width=500&height=50"></a>
 </p>
 
 <p>
