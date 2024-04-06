@@ -47,14 +47,7 @@
 <div align="center">
 	<a href="https://linkedin.com/in/MODESTE-LORENE-NIKOUM5113b8262" rel="nofollow">
 	 	<img alt=" LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" style="max-width: 100%;">
-	</a>
-</div>
-</p>
-
-# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
-
-<br/>
-<p align='center'>
+	<p align='center'>
   <a href="https://t.me/lorie-lorene">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -63,13 +56,21 @@
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
+	</a>
+</div>
+</p>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=lorie-lorene" />
+# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+
+<br/>
+
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?username=lorie-lorene" />
 <img align="right" src="https://img.shields.io/github/followers/lorie-lorene?label=Follow&style=social" />
 <h1 align="center"></h1>
+
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=lorie-lorene&show_icons=true&theme=chartreuse-dark&count_private=true" />
-<img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorie-lorene&count_private=true&langs_count=10&theme=chartreuse-dark&layout=compact&hide=html,css" alt="edghi :: Top Langs" />
-<img height="150px" />
+
 <br>
 
 <!-- [![lorie-lorene Activity Graph](https://activity-graph.herokuapp.com/graph?username=lorie-lorene&custom_title=Torrin's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)] -->
