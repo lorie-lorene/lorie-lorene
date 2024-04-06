@@ -1,5 +1,6 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Salut,+je suis+ lorie Lorene+...;une vraie +passionnee+de la programmation;je suis+specialisé dans +le+developpement+ d'application+ mobile et web.;&center=true&width=500&height=50"></a>
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Salut,+je suis+ lorie Lorene+...;une vraie +passionnee+de la programmation;je suis+specialisé dans +le+developpement+ d'application+ mobile et web.;&center=true&width=500&height=50"></a> -->
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Kouam+Brice.;A+passionate+of+Computing.;And+specifically+a+fullstack+developer.;And+AWS+Cloud+Solutions+Architect.;&center=true&width=500&height=50"></a>
 </p>
 
 <p>
@@ -46,7 +47,7 @@
 <p>
 <div align="center">
 	<a href="https://linkedin.com/in/MODESTE-LORENE-NIKOUM5113b8262" rel="nofollow">
-	 	<img alt=" LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" style="max-width: 100%;">
+	 	<img alt=" LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" style="max-width: 100%;">
 	</a>
 </div>
 </p>
