@@ -1,6 +1,6 @@
 <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Salut,+je suis+ lorie Lorene+...;une vraie +passionnee+de la programmation;je suis+specialisé dans +le+developpement+ d'application+ mobile et web.;&center=true&width=500&height=50"></a> -->
-	 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=salut+toi,+je+suis+Lorene+Modeste.;A+passionate+of+Computing.;And+specifically+a+fullstack+developer.;And+AWS+Cloud+Solutions+Architect.;&center=true&width=500&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Salut+toi+je+suis+Modeste+Lorene+...;une+vraie+passionnee+de+la+programmation;je+suis+specialisé+dans+le+developpement
+  +d'application+mobile+et+web.;&center=true&width=500&height=60"></a>
 </p>
 
 <p>
