@@ -1,11 +1,10 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Salut,+je suis+ lorie Lorene+...;une vraie +passionnee+de la programmation;je suis+specialisé dans +le+developpement d'application+ mobile et web;.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Salut,+je suis+ lorie Lorene+...;une vraie +passionnee+de la programmation;je suis+specialisé dans +le+developpement+ d'application+ mobile et web.;&center=true&width=500&height=50"></a>
 </p>
 
 <p>
 <div align="center" target="_blank">
   <img src="https://img.shields.io/github/followers/lorie-lorene?style=social">
-  <img src="https://img.shields.io/badge/Follow-%40Briso_dev-ff69b4?style=social&logo=instagram">
 </div>
 </p>
 
@@ -84,8 +83,3 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{Briso10-dev}/count.svg"></p>
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
-
-<!---
-lorie-lorene/lorie-lorene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
