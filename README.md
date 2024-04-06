@@ -69,14 +69,22 @@
 <img align="right" src="https://img.shields.io/github/followers/lorie-lorene?label=Follow&style=social" />
 <h1 align="center"></h1>
 
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=lorie-lorene&show_icons=true&theme=chartreuse-dark&count_private=true" />
-
+<p align="left">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=lorie-lorene&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=lorie-lorene&theme=chartreuse-dark&count_private=true"/>		  
+</p>
 <br>
 
 <!-- [![lorie-lorene Activity Graph](https://activity-graph.herokuapp.com/graph?username=lorie-lorene&custom_title=Torrin's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)] -->
 
-
+<p align="center">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorie-lorene&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+</p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{lorie-lorene}/count.svg"></p>
+
+<!-- [![lorie-lorene Activity Graph](https://activity-graph.herokuapp.com/graph?username=lorie-lorene&custom_title=Torrin's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)] -->
+
+
 
 ## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
