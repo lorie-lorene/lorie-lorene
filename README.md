@@ -60,7 +60,7 @@
 </div>
 </p>
 
-# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+<img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
 <br/>
 
@@ -83,8 +83,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{lorie-lorene}/count.svg"></p>
 
-<!-- [![lorie-lorene Activity Graph](https://activity-graph.herokuapp.com/graph?username=lorie-lorene&custom_title=Torrin's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)] -->
+ [![lorie-lorene Activity Graph](https://activity-graph.herokuapp.com/graph?username=lorie-lorene&custom_title=Torrin's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
 
 
-
-## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
+<img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
