@@ -70,15 +70,15 @@
 <h1 align="center"></h1>
 
 <p align="left">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=lorie-lorene&show_icons=true&include_all_commits=true&theme=chartreuse-dark&count_private=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=lorie-lorene&theme=chartreuse-dark&count_private=true"/>		  
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=lorie-lorene&show_icons=true&include_all_commits=true&theme=chartreuse-dark&count_private&count_public=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=lorie-lorene&theme=chartreuse-dark&count_private&count_public=true"/>		  
 </p>
 <br>
 
 <!-- [![lorie-lorene Activity Graph](https://activity-graph.herokuapp.com/graph?username=lorie-lorene&custom_title=Torrin's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)] -->
 
 <p align="center">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorie-lorene&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorie-lorene&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private&count_public=true&layout=compact">
 </p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{lorie-lorene}/count.svg"></p>
