@@ -10,7 +10,6 @@
 
 ## 🚀 À propos de moi
 
-```typescript
 const modesteLorene: Developer = {
   nom: "Modeste Lorène NIKOUM",
   role: "Développeuse Full-Stack Senior",
@@ -116,4 +115,4 @@ Afficher l'image
 <img src="https://komarev.com/ghpvc/?username=lorie-lorene&style=for-the-badge&color=brightgreen" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" />
 </div>
-```
+
