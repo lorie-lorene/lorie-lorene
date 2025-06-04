@@ -1,89 +1,119 @@
-<p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Salut+toi+je+suis+Modeste+Lorene;une+vraie+passionnee+de+la+programmation;specialise+dans+le+developpement;WEB+et+Mobile.;&center=true&width=800&height=60"></a>
-</p>
-
-<p>
-<div align="center" target="_blank">
-  <img src="https://img.shields.io/github/followers/lorie-lorene?style=social">
-</div>
-</p>
-
-<p>
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
-  <img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Salut+%F0%9F%91%8B+Je+suis+Modeste+Lor%C3%A8ne;D%C3%A9veloppeuse+Full-Stack+passionn%C3%A9e;Experte+Spring+Boot+%26+Architectures+Web;Cr%C3%A9atrice+de+solutions+innovantes" alt="Typing Animation" />
 </div>
-</p>
 
-<p>
 <div align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://github.com/lorie-lorene/lorie-lorene/blob/main/assets/banner.gif" width="100%" alt="Coding Banner" />
 </div>
-</p>
 
-<p>
+---
+
+## 🚀 À propos de moi
+
+```typescript
+const modesteLorene: Developer = {
+  nom: "Modeste Lorène NIKOUM",
+  role: "Développeuse Full-Stack Senior",
+  specialisation: ["Spring Boot Expert", "Architectures Web", "Solutions Backend"],
+  localisation: "Yaoundé, Cameroun 🇨🇲",
+  experience: "3+ années",
+  passion: ["Clean Code", "Microservices", "Innovation Tech"],
+  
+  objetif2025: "Contribuer à des projets open-source impactants",
+  funFact: "J'adore transformer des idées complexes en code élégant ✨"
+};
+
+🛠️ Stack Technique
+🔥 Expertise Principale
 <div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000" />
 </div>
-</p>
-
-<p>
+💻 Langages & Frameworks
 <div align="center">
-   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
-   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div>
-</p>
-
-<p align="center">Contact me:</p>
-<p>
+🎨 Frontend
 <div align="center">
-	<a href="https://linkedin.com/in/MODESTE-LORENE-NIKOUM5113b8262" rel="nofollow">
-	 	<img alt=" LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" style="max-width: 100%;">
-	<p align='center'>
-  <a href="https://t.me/lorie-lorene">
-    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>&nbsp;&nbsp;
-
-  <a href="mailto:lorene.nikoum@facsciences-uy1.cm">
-    <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
-	</a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
-</p>
+🔧 Outils & Environnement
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</div>
 
-<img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+📈 Statistiques GitHub
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lorie-lorene&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lorie-lorene&theme=tokyonight&hide_border=true" />
+</div>
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorie-lorene&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lorie-lorene&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
 
-<br/>
+🏆 Achievements & Certifications
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lorie-lorene&theme=discord&no-frame=true&row=1&column=6" />
+</div>
+<div align="center">
+🎯 Certifications📚 Formations☕ Oracle Java Certified🌱 Spring Boot Advanced🐍 Python Developer🗄️ MongoDB Professional🚀 Spring Professional🐧 Linux System Admin
+</div>
+
+🔥 Projets Phares
+<div align="center">
+Afficher l'image
+Afficher l'image
+</div>
+🚀 Projets en cours
+
+📱 E-Learning Platform - Spring Boot + React + MongoDB
+🏥 Healthcare API - Microservices Architecture
+📊 Analytics Dashboard - Python + Django + PostgreSQL
 
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?username=lorie-lorene" />
-<img align="right" src="https://img.shields.io/github/followers/lorie-lorene?label=Follow&style=social" />
-<h1 align="center"></h1>
+📊 Contribution Overview
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=lorie-lorene&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</div>
 
-<p align="left">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=lorie-lorene&show_icons=true&include_all_commits=true&theme=chartreuse-dark&count_private&count_public=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=lorie-lorene&theme=chartreuse-dark&count_private&count_public=true"/>		  
-</p>
-<br>
+🤝 Connectons-nous !
+<div align="center">
+Afficher l'image
+Afficher l'image
+Afficher l'image
+Afficher l'image
+</div>
 
-<!-- [![lorie-lorene Activity Graph](https://activity-graph.herokuapp.com/graph?username=lorie-lorene&custom_title=Torrin's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)] -->
+💭 Citation du jour
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
-<p align="center">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorie-lorene&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private&count_public=true&layout=compact">
-</p>
+📈 Activité récente
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-<p align="center"><img src="https://profile-counter.glitch.me/{lorie-lorene}/count.svg"></p>
-
- [![lorie-lorene Activity Graph](https://activity-graph.herokuapp.com/graph?username=lorie-lorene&custom_title=Torrin's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
-
-
-<img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> Current Projects
+<div align="center">
+🌟 "Code is poetry written in logic" 🌟
+<img src="https://komarev.com/ghpvc/?username=lorie-lorene&style=for-the-badge&color=brightgreen" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" />
+</div>
+```
